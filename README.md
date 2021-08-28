@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaushalkuma-r
-- 👀 I’m interested in Data Science.
-- 🌱 I’m pursuing to become a data Scientist.
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 Always looking for interesting projects.
 - 📫 How to reach me - LinkedIn- www.linkedin.com/in/kaushal-kumar-b40612210
 
 
